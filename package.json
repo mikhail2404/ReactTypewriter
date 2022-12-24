@@ -1,6 +1,6 @@
 {
-  "name": "react-ts-typewriter",
-  "version": "0.1.8b",
+  "name": "@mikhail2404/react-ts-typewriter",
+  "version": "0.5.3",
   "description": "React typewriter component written in TypeScript with React 18",
   "main": "dist/Typewriter.js",
   "types": "dist/Typewriter.d.ts",
